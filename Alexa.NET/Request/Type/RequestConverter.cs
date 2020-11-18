@@ -5,7 +5,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public class RequestConverter : JsonConverter
     {

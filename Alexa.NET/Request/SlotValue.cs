@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class SlotValue
     {

@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public enum SlotValueType
     {

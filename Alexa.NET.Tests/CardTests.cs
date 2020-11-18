@@ -1,9 +1,9 @@
 ﻿using Xunit;
 using System.IO;
 using Newtonsoft.Json.Linq;
-using Alexa.NET.Response;
+using VoicifyAlexa.NET.Response;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class CardTests
     {

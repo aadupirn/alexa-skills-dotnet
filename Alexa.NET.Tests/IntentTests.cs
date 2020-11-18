@@ -1,8 +1,8 @@
 ﻿using System;
 using Xunit;
-using Alexa.NET.Request;
+using VoicifyAlexa.NET.Request;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class IntentTests
     {

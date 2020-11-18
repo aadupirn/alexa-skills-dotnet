@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public class VideoItemMetadata
     {

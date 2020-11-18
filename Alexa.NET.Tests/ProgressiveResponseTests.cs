@@ -3,11 +3,11 @@ using System.Net;
 using System.Net.Http;
 using System.Threading;
 using System.Threading.Tasks;
-using Alexa.NET.Response;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response;
+using VoicifyAlexa.NET.Response.Directive;
 using Xunit;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class ProgressiveResponseTests
     {

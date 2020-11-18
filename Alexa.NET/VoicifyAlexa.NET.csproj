@@ -1,13 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <Description>A simple .NET Core library for handling Alexa Skill request/responses.</Description>
-    <AssemblyTitle>Alexa.NET</AssemblyTitle>
+    <AssemblyTitle>VoicifyAlexa.NET</AssemblyTitle>
     <VersionPrefix>1.14.0</VersionPrefix>
-    <Authors>Tim Heuer, Steven Pears</Authors>
+    <Authors>Tim Heuer, Steven Pears, Aadu Pirn</Authors>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Alexa.NET</AssemblyName>
-    <PackageId>Alexa.NET</PackageId>
+    <AssemblyName>VoicifyAlexa.NET</AssemblyName>
+    <PackageId>VoicifyAlexa.NET</PackageId>
     <PackageTags>amazon;alexa;echo;dot;echo dot;skills</PackageTags>
     <PackageReleaseNotes>Adding support for Multi-value slots. Thanks @stoiveyp! </PackageReleaseNotes>
     <PackageProjectUrl>https://github.com/timheuer/alexa-skills-dotnet</PackageProjectUrl>

@@ -1,8 +1,8 @@
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class PlainTextOutputSpeech : IOutputSpeech
     {

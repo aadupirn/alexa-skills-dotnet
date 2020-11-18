@@ -1,8 +1,8 @@
 using Newtonsoft.Json;
 using System;
-using Alexa.NET.Helpers;
+using VoicifyAlexa.NET.Helpers;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     [JsonConverter(typeof(RequestConverter))]
     public abstract class Request

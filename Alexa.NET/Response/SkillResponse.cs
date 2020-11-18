@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class SkillResponse
     {

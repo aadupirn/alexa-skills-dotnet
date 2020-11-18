@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class IntentProperty
     {

@@ -1,8 +1,8 @@
 ﻿using System.Text;
-using Alexa.NET.Response.Converters;
+using VoicifyAlexa.NET.Response.Converters;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.ConnectionTasks
+namespace VoicifyAlexa.NET.ConnectionTasks
 {
     [JsonConverter(typeof(ConnectionTaskConverter))]
     public interface IConnectionTask

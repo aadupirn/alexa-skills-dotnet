@@ -1,10 +1,10 @@
-﻿using Alexa.NET.ConnectionTasks;
-using Alexa.NET.Request.Type;
-using Alexa.NET.Response.Converters;
+﻿using VoicifyAlexa.NET.ConnectionTasks;
+using VoicifyAlexa.NET.Request.Type;
+using VoicifyAlexa.NET.Response.Converters;
 using Newtonsoft.Json.Linq;
 using System.Linq;
 
-namespace Alexa.NET.Tests.Examples
+namespace VoicifyAlexa.NET.Tests.Examples
 {
     public class ExampleTaskConverter : IConnectionTaskConverter
     {

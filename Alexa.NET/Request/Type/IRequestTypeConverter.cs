@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public interface IRequestTypeConverter
     {

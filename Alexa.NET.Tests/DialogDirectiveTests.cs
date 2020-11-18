@@ -1,11 +1,11 @@
 ﻿using System;
 using Xunit;
 using System.IO;
-using Alexa.NET.Request;
+using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json.Linq;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class DialogDirectiveTests
     {

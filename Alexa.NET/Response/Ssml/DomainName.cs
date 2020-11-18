@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Response.Ssml
+﻿namespace VoicifyAlexa.NET.Response.Ssml
 {
     public static class DomainName
     {

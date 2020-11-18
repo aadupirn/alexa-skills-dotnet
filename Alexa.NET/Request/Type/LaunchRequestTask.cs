@@ -1,7 +1,7 @@
-﻿using Alexa.NET.ConnectionTasks;
+﻿using VoicifyAlexa.NET.ConnectionTasks;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public class LaunchRequestTask
     {

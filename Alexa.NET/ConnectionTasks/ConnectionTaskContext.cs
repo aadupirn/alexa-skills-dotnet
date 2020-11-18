@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.ConnectionTasks
+namespace VoicifyAlexa.NET.ConnectionTasks
 {
     public class ConnectionTaskContext
     {

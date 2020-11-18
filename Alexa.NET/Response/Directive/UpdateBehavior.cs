@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public enum UpdateBehavior
     {

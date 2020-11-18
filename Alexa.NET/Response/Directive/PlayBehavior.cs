@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Threading.Tasks;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public enum PlayBehavior
     {

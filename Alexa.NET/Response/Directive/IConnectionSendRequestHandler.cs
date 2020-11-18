@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public interface IConnectionSendRequestHandler
     {

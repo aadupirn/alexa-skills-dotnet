@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public class SystemExceptionRequest : Request
     {

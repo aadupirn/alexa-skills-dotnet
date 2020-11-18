@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 
 
-namespace Alexa.NET.Helpers
+namespace VoicifyAlexa.NET.Helpers
 {
 	public class MixedDateTimeConverter : Newtonsoft.Json.Converters.DateTimeConverterBase
     {

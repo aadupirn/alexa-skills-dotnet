@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.Directive.Templates.Types
+namespace VoicifyAlexa.NET.Response.Directive.Templates.Types
 {
     public class ListTemplate1:IListTemplate
     {

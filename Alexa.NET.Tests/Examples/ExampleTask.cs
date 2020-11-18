@@ -1,7 +1,7 @@
-﻿using Alexa.NET.ConnectionTasks;
+﻿using VoicifyAlexa.NET.ConnectionTasks;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Tests.Examples
+namespace VoicifyAlexa.NET.Tests.Examples
 {
     public class ExampleTask : IConnectionTask
     {

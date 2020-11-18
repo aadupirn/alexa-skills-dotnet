@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Newtonsoft.Json;
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class AskForPermissionsConsentCard : ICard
     {

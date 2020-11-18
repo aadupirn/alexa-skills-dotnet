@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Linq;
 
-namespace Alexa.NET.Response.Ssml
+namespace VoicifyAlexa.NET.Response.Ssml
 {
     public class Phoneme : ICommonSsml
     {

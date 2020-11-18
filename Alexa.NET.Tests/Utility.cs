@@ -5,7 +5,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public static class Utility
     {

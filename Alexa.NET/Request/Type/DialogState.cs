@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public static class DialogState
     {

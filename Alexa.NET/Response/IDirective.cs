@@ -1,7 +1,7 @@
-﻿using Alexa.NET.Response.Converters;
+﻿using VoicifyAlexa.NET.Response.Converters;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     [JsonConverter(typeof(DirectiveConverter))]
     public interface IDirective

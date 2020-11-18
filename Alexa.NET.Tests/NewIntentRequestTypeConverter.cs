@@ -1,6 +1,6 @@
-﻿using Alexa.NET.Request.Type;
+﻿using VoicifyAlexa.NET.Request.Type;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class NewIntentRequestTypeConverter : IRequestTypeConverter
     {

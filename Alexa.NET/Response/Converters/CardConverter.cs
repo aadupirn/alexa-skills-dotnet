@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Alexa.NET.Response.Converters
+namespace VoicifyAlexa.NET.Response.Converters
 {
     public class CardConverter : JsonConverter
     {

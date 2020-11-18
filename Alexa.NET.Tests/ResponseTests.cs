@@ -5,18 +5,18 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
-using Alexa.NET.Request;
-using Alexa.NET.Response;
-using Alexa.NET.Response.Directive;
-using Alexa.NET.Response.Directive.Templates;
-using Alexa.NET.Response.Directive.Templates.Types;
-using Alexa.NET.Response.Ssml;
+using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Response;
+using VoicifyAlexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive.Templates;
+using VoicifyAlexa.NET.Response.Directive.Templates.Types;
+using VoicifyAlexa.NET.Response.Ssml;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 using Xunit;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class ResponseTests
     {

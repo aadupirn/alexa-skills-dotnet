@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.ConnectionTasks.Inputs
+namespace VoicifyAlexa.NET.ConnectionTasks.Inputs
 {
     public class Restaurant
     {

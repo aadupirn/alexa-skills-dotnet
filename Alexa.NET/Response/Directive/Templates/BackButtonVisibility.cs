@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Alexa.NET.Response.Directive.Templates
+namespace VoicifyAlexa.NET.Response.Directive.Templates
 {
     public static class BackButtonVisibility
     {

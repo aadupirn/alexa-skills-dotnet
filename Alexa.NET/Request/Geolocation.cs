@@ -1,8 +1,8 @@
 ﻿using System;
-using Alexa.NET.Request.Type;
+using VoicifyAlexa.NET.Request.Type;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class Geolocation
     {

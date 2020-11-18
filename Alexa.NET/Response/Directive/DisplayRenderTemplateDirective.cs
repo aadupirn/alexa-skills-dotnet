@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Response.Converters;
+using VoicifyAlexa.NET.Response.Converters;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public class DisplayRenderTemplateDirective : IDirective
     {

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Response.Directive;
-using Alexa.NET.Response.Directive.Templates.Types;
+using VoicifyAlexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive.Templates.Types;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Response.Converters
+namespace VoicifyAlexa.NET.Response.Converters
 {
     public class TemplateConverter : JsonConverter
     {

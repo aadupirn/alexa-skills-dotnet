@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
 
-namespace Alexa.NET.Response.Ssml
+namespace VoicifyAlexa.NET.Response.Ssml
 {
     public class AmazonEmotion : ICommonSsml
     {

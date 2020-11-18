@@ -1,8 +1,8 @@
 ﻿using System;
-using Alexa.NET.Request;
+using VoicifyAlexa.NET.Request;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public class DialogDelegate:IDirective
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     //https://developer.amazon.com/en-US/docs/alexa/smapi/voice-permissions-for-reminders.html#send-a-connectionssendrequest-directive
     public class AskForRequestHandler : IConnectionResponseHandler

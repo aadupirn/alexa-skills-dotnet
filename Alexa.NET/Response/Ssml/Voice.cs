@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Linq;
 
-namespace Alexa.NET.Response.Ssml
+namespace VoicifyAlexa.NET.Response.Ssml
 {
     public class Voice:ICommonSsml
     {

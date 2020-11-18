@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using Xunit;
-using Alexa.NET.Response.Ssml;
+using VoicifyAlexa.NET.Response.Ssml;
 using System.Xml.Linq;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class SsmlTests
     {

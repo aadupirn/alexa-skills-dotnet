@@ -3,11 +3,11 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
-using Alexa.NET.Request;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Response.Directive;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class ProgressiveResponse
     {

@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Alexa.NET
+namespace VoicifyAlexa.NET
 {
     public static class ConfirmationStatus
     {

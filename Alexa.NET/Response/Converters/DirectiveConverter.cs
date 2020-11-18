@@ -1,10 +1,10 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Response.Converters
+namespace VoicifyAlexa.NET.Response.Converters
 {
     public class DirectiveConverter : JsonConverter
     {

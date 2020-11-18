@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Helpers;
+using VoicifyAlexa.NET.Helpers;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public class SkillEventRequest:Request
     {

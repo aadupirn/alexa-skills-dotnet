@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Alexa.NET.Request.Type
+namespace VoicifyAlexa.NET.Request.Type
 {
     public enum LocationServiceStatus
     {

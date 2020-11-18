@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Alexa.NET.ConnectionTasks;
-using Alexa.NET.ConnectionTasks.Inputs;
-using Alexa.NET.Request.Type;
+using VoicifyAlexa.NET.ConnectionTasks;
+using VoicifyAlexa.NET.ConnectionTasks.Inputs;
+using VoicifyAlexa.NET.Request.Type;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Alexa.NET.Response.Converters
+namespace VoicifyAlexa.NET.Response.Converters
 {
     public class ConnectionTaskConverter : JsonConverter
     {

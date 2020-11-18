@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class NewIntentRequest : Request.Type.Request
     {

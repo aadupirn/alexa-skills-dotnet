@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-namespace Alexa.NET.Response.Ssml
+namespace VoicifyAlexa.NET.Response.Ssml
 {
     public class BreakStrength
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Alexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive;
 
-namespace Alexa.NET.ConnectionTasks
+namespace VoicifyAlexa.NET.ConnectionTasks
 {
     public static class IConnectionTaskExtensions
     {

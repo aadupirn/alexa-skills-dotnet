@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.Directive.Templates
+namespace VoicifyAlexa.NET.Response.Directive.Templates
 {
     public class TemplateImage
     {

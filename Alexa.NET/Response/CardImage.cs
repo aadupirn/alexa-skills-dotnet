@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class CardImage
     {

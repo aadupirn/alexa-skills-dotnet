@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public static class RequestedPermission
     {

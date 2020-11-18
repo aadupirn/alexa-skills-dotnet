@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Alexa.NET
+namespace VoicifyAlexa.NET
 {
     public class ConnectionStatus
     {

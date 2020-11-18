@@ -1,10 +1,10 @@
-﻿using Alexa.NET.Request;
-using Alexa.NET.Response;
-using Alexa.NET.Response.Directive;
+﻿using VoicifyAlexa.NET.Request;
+using VoicifyAlexa.NET.Response;
+using VoicifyAlexa.NET.Response.Directive;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Alexa.NET
+namespace VoicifyAlexa.NET
 {
     public class ResponseBuilder
     {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public class Intent
     {

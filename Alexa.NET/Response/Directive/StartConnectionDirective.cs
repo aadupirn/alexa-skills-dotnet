@@ -1,8 +1,8 @@
 ﻿using System;
-using Alexa.NET.ConnectionTasks;
+using VoicifyAlexa.NET.ConnectionTasks;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.Response.Directive
+namespace VoicifyAlexa.NET.Response.Directive
 {
     public class StartConnectionDirective:IDirective
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace Alexa.NET.ConnectionTasks.Inputs
+namespace VoicifyAlexa.NET.ConnectionTasks.Inputs
 {
     public class PrintPdfV1:IConnectionTask
     {

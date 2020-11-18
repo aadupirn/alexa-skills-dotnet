@@ -1,4 +1,4 @@
-﻿namespace Alexa.NET.Response.Directive
+﻿namespace VoicifyAlexa.NET.Response.Directive
 {
     public class AskForPermissionDirective : ConnectionSendRequest<AskForPermissionPayload>
     {

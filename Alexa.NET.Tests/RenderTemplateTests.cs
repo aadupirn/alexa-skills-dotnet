@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using Alexa.NET.Response.Directive;
-using Alexa.NET.Response.Directive.Templates;
-using Alexa.NET.Response.Directive.Templates.Types;
+using VoicifyAlexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Response.Directive.Templates;
+using VoicifyAlexa.NET.Response.Directive.Templates.Types;
 using Newtonsoft.Json.Linq;
 using Xunit;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class RenderTemplateTests
     {

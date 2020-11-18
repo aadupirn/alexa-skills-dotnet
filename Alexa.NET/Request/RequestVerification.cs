@@ -7,7 +7,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Alexa.NET.Request
+namespace VoicifyAlexa.NET.Request
 {
     public static class RequestVerification
     {

@@ -1,14 +1,14 @@
 ﻿using System;
-using Alexa.NET.ConnectionTasks;
-using Alexa.NET.ConnectionTasks.Inputs;
-using Alexa.NET.Request.Type;
-using Alexa.NET.Response;
-using Alexa.NET.Response.Converters;
-using Alexa.NET.Response.Directive;
-using Alexa.NET.Tests.Examples;
+using VoicifyAlexa.NET.ConnectionTasks;
+using VoicifyAlexa.NET.ConnectionTasks.Inputs;
+using VoicifyAlexa.NET.Request.Type;
+using VoicifyAlexa.NET.Response;
+using VoicifyAlexa.NET.Response.Converters;
+using VoicifyAlexa.NET.Response.Directive;
+using VoicifyAlexa.NET.Tests.Examples;
 using Xunit;
 
-namespace Alexa.NET.Tests
+namespace VoicifyAlexa.NET.Tests
 {
     public class SkillConnectionTests
     {

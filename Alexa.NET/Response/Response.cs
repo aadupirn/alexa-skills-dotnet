@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Alexa.NET.Response
+namespace VoicifyAlexa.NET.Response
 {
     public class ResponseBody
     {
